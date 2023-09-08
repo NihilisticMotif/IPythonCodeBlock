@@ -1,0 +1,6 @@
+[submodule "scratch-blocks"]
+	path = scratch-blocks
+	url = https://github.com/NihilisticMotif/scratch-blocks
+[submodule "ipython"]
+	path = ipython
+	url = https://github.com/NihilisticMotif/ipython
