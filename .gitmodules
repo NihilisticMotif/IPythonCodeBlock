@@ -4,3 +4,6 @@
 [submodule "ipython"]
 	path = ipython
 	url = https://github.com/NihilisticMotif/ipython
+[submodule "scratch-vm"]
+	path = scratch-vm
+	url = https://github.com/NihilisticMotif/scratch-vm
